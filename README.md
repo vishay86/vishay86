@@ -19,7 +19,7 @@ Data Storytelling
 
 📫 Reach me on my <a href = "https://www.linkedin.com/in/vishay-bhatia/"> LinkedIn </a>
 
- https://www.linkedin.com/in/vishay-bhatia/· Dubai, UAE
+🌴 Current Location: Dubai, UAE
 <!--
 **vishay86/vishay86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
