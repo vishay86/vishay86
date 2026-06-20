@@ -12,7 +12,7 @@ I'm now looking for opportunities to bring that analytical mindset — backed by
 SQL — CTEs, Window Functions, Joins
 Power BI — DAX, Power Query, Data Modeling
 Advanced Excel — Power Query, DAX, Pivot Tables
-Google Analytics — Certified
+Google Analytics Certified
 Funnel Analysis
 Data Storytelling
 
